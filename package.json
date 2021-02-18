@@ -1,0 +1,24 @@
+{
+  "name": "reacthugodemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoolaao/reacthugodemo.git"
+  },
+  "author": "Ayoola Abimbola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayoolaao/reacthugodemo/issues"
+  },
+  "homepage": "https://github.com/ayoolaao/reacthugodemo#readme",
+  "dependencies": {
+    "@babel/cli": "^7.12.16",
+    "@babel/core": "^7.12.16",
+    "@babel/preset-react": "^7.12.13"
+  }
+}
